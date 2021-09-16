@@ -1,0 +1,47 @@
+Attending:
+Marc Karasek
+Thea Aldrich
+Dr Peter Chun
+Arlen
+
+Talked about an initial list of Embedded Gaps in RiscV Architecture
+
+Secure boot
+	How is root of trust handled -  key0 support?
+	Current mechanism of SBI being used as a called back from Linux is a huge blocker (IMO) for this.  
+	Any callback to a previous binary w/o someway to validate that binary has not been compromised 
+	is a hard sell for those who require secure boot.  
+TEE – Trusted Execution Environment (ARM calls this Trust Zone) Place to hide your secret sauce/keys/etc.. 
+
+Was discussed as to what Platform/Profile Secure Boot/TEE falls under?  
+
+Industry Requirements – Automotive/Military/etc.
+
+Discussed having these type of requirements be in addition to the current embedded requirements. 
+For example: In order to meet automotive, you need to have X + the automotive requirements implemented.
+Same for Military.
+Do we need to do anything and/or does RISC-V current requirements clash with any industry requirements? 
+
+Low power requirements
+Where does this fall in terms of RISC-V architecture?  Is this more of a product design feature?
+
+
+
+Current State of Embedded Design in RISC-V?
+Recommend to get with Stephano about a survey of what is current state of embedded for RISC-V.
+
+Industry Trade Shows
+How best to present RISC-V?
+
+Thea : We have a presence at a emebedded trade show next year.  She will send out info to our mailing list.  
+Deadline for submitting proposals is soon.
+
+Thea brought up that YOCTO is very excited about RISC-V
+YOCTO is basing there HowTo on RISC-V. 
+Hardware  = SiFive HW
+Suggest that YOCTO also use QEMU RiscV for this.
+
+Suggested Thea reach out to buildroot community.
+
+
+
