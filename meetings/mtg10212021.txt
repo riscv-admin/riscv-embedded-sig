@@ -1,0 +1,13 @@
+Attending:
+Marc Karasek
+Vedyvas Shanbhogue - rivosinc
+
+
+Agenda - 
+
+	Current State of Embedded Design in RISC-V?
+
+Vedyvas talked about some of the things his company is doing in the Riscv Embedded Space.  I have asked him to present at our next meeting. 
+
+
+
