@@ -1,0 +1,18 @@
+Meeting 11/18/2021
+
+
+
+Vedyvas gave a presentation about some of the areas his company is workign on.
+
+The slides for this are in the github repo at: https://github.com/riscv-admin/riscv-embedded-sig
+
+It was a very imformative presentation and I think this will give us a good starting point for addressing 
+gaps within the RiscV Ecosystem in terms of Embedded Systems.
+
+Starting in Jan (I am canceling the Dec meeting due to Holidays, etc..) I would like to use Vedyvas presentation as a starting point to 
+put together a list of gaps we see in the RiscV Ecosystem and rank them both in terms of priority as well as ease of filling them. 
+(There maybe some low hanging fruit that we can easily address.)
+
+Marc
+
+
