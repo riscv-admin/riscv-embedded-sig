@@ -1,0 +1,14 @@
+Meeting 1/20/2022
+
+Attendees:
+Marc Karasek  	InspireSemi 
+Chris Owen	Imgagination Technology
+Allen Baum 	Esperanto
+ 
+Chris talked about HAL layer for RISC V to abstract HW layer for embedded. 
+Look at eABI.
+
+Marc will go over presentation done by Vos R. in Nov 2021 and 
+pull out any gaps that Vos identified.
+
+
